@@ -1,7 +1,7 @@
 from pyrogram.types import InlineKeyboardButton as ikb
 
 
-channel = ikb("Channel🌴",url='https://t.me/neuralp')
-group = ikb("Group🪺",url='https://t.me/neuralg')
-developer = ikb("Developer🦭",url="https://t.me/e_phador")
+channel = ikb("Channel🌴",url='https://t.me/KHCloudFile')
+group = ikb("Group🪺",url='https://t.me/KHCloudFileHangOut')
+developer = ikb("Developer🦭",url="https://t.me/@kamrul_3406x")
 help = ikb("Help📃",callback_data='help')
